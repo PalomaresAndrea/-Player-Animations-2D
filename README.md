@@ -1,8 +1,7 @@
-![Banner del Proyecto](https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg)
-<!-- Puedes reemplazar la imagen anterior por una captura de tu juego o un banner personalizado -->
+
 
 # 🎮 **Juego de Plataformas 2D en Unity**
-
+![Banner del Proyecto](https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg)
 ---
 
 ## 👩‍🎓 **Datos del Estudiante**

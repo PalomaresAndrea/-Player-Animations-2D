@@ -1,8 +1,7 @@
-
-
 # 🎮 **Juego de Plataformas 2D en Unity**
 ![Banner del Proyecto](https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg)
 <!-- Puedes reemplazar esta imagen por un banner personalizado o una captura del juego -->
+
 ---
 
 ## 👩‍🎓 **Datos del Estudiante**
@@ -31,7 +30,6 @@ Acceder al sitio **Juego de Plataformas 2D**, para seguir los tutoriales de crea
 |:--:|--------------------|--------------------|------------------|
 | 01 | Creación del mundo | [Agregar enlace aquí](#) | [Agregar PDF aquí](#) |
 
-
 ---
 
 ## 📚 **Tutoriales**
@@ -39,17 +37,6 @@ Acceder al sitio **Juego de Plataformas 2D**, para seguir los tutoriales de crea
 | Nº | Tema | 🎬 Enlace del Video | 📘 Enlace del PDF |
 |:--:|------|--------------------|------------------|
 | 01 | [Nombre del Tutorial Aquí] | [Agregar enlace aquí](#) | [Agregar PDF aquí](#) |
-
-
----
-
-## 🕹️ **Videojuego Desarrollado**
-> 🔹 En este apartado se documentarán los avances y versiones del videojuego.  
-> Se agregará una tabla con los enlaces al **videojuego final**, **código fuente**, **videos de demostración** y **documentación PDF**.
-
-| Versión | Descripción | 💻 Código Fuente | 🎬 Video | 📘 Documento |
-|:--------:|--------------|----------------|-----------|--------------|
-| _Por definir_ | _En desarrollo_ | [Próximamente](#) | [Próximamente](#) | [Próximamente](#) |
 
 ---
 
@@ -73,6 +60,4 @@ Al finalizar el proyecto, el estudiante comprenderá los principios básicos del
 ---
 
 ## 🏁 **Créditos**
-Este proyecto fue desarrollado con fines educativos para la asignatura **Creación de Videojuegos ING**, como práctica de los fundamentos de **Unity 2D**.  
-
-© 2025 - *Schoenstantt Andrea Palomares Barrientos*
+<sub>Proyecto desarrollado con fines educativos para la asignatura **Creación de Videojuegos ING** como práctica de **Unity 2D**. © 2025 - Schoenstantt Andrea Palomares Barrientos</sub>

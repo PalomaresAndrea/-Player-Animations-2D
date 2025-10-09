@@ -22,7 +22,6 @@ El estudiante practicará los fundamentos de videojuegos en 2D utilizando **Unit
 
 ### 🪜 **Paso 1**
 Acceder al sitio **Juego de Plataformas 2D**, para seguir los tutoriales de creación de videojuegos 2D.  
-🔗 [Plantilla Base (Portfolio One Page Template)](https://github.com/website-templates/portfolio_one-page-template.git)
 
 ---
 

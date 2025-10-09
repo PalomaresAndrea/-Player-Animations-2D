@@ -2,6 +2,7 @@
 
 # 🎮 **Juego de Plataformas 2D en Unity**
 ![Banner del Proyecto](https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg)
+<!-- Puedes reemplazar esta imagen por un banner personalizado o una captura del juego -->
 ---
 
 ## 👩‍🎓 **Datos del Estudiante**
@@ -20,7 +21,8 @@ El estudiante practicará los fundamentos de videojuegos en 2D utilizando **Unit
 ## 🧭 **Procedimiento**
 
 ### 🪜 **Paso 1**
-Acceder al sitio **Juego de Plataformas 2D**, para seguir los tutoriales de creación de videojuegos 2D.
+Acceder al sitio **Juego de Plataformas 2D**, para seguir los tutoriales de creación de videojuegos 2D.  
+🔗 [Plantilla Base (Portfolio One Page Template)](https://github.com/website-templates/portfolio_one-page-template.git)
 
 ---
 
@@ -29,17 +31,26 @@ Acceder al sitio **Juego de Plataformas 2D**, para seguir los tutoriales de crea
 | Nº | Tema del Tutorial | 🎬 Enlace del Video | 📘 Enlace del PDF |
 |:--:|--------------------|--------------------|------------------|
 | 01 | Creación del mundo | [Agregar enlace aquí](#) | [Agregar PDF aquí](#) |
-| 02 | Movimiento y Salto | [Agregar enlace aquí](#) | [Agregar PDF aquí](#) |
-| 03 | Recoger Frutas | [Agregar enlace aquí](#) | [Agregar PDF aquí](#) |
-| 04 | Animaciones de personaje | [Agregar enlace aquí](#) | [Agregar PDF aquí](#) |
-| 05 | Enemigos | [Agregar enlace aquí](#) | [Agregar PDF aquí](#) |
-| 06 | Niveles | [Agregar enlace aquí](#) | [Agregar PDF aquí](#) |
-| 07 | CheckPoint | [Agregar enlace aquí](#) | [Agregar PDF aquí](#) |
-| 08 | Nuevos personajes | [Agregar enlace aquí](#) | [Agregar PDF aquí](#) |
-| 09 | Menú Principal | [Agregar enlace aquí](#) | [Agregar PDF aquí](#) |
-| 10 | Controles para móvil | [Agregar enlace aquí](#) | [Agregar PDF aquí](#) |
-| 11 | Score | [Agregar enlace aquí](#) | [Agregar PDF aquí](#) |
-| 12 | Vidas | [Agregar enlace aquí](#) | [Agregar PDF aquí](#) |
+
+
+---
+
+## 📚 **Tutoriales Adicionales**
+
+| Nº | Tema | 🎬 Enlace del Video | 📘 Enlace del PDF |
+|:--:|------|--------------------|------------------|
+| 01 | [Nombre del Tutorial Aquí] | [Agregar enlace aquí](#) | [Agregar PDF aquí](#) |
+
+
+---
+
+## 🕹️ **Videojuego Desarrollado**
+> 🔹 En este apartado se documentarán los avances y versiones del videojuego.  
+> Se agregará una tabla con los enlaces al **videojuego final**, **código fuente**, **videos de demostración** y **documentación PDF**.
+
+| Versión | Descripción | 💻 Código Fuente | 🎬 Video | 📘 Documento |
+|:--------:|--------------|----------------|-----------|--------------|
+| _Por definir_ | _En desarrollo_ | [Próximamente](#) | [Próximamente](#) | [Próximamente](#) |
 
 ---
 
@@ -62,4 +73,7 @@ Al finalizar el proyecto, el estudiante comprenderá los principios básicos del
 
 ---
 
+## 🏁 **Créditos**
+Este proyecto fue desarrollado con fines educativos para la asignatura **Creación de Videojuegos ING**, como práctica de los fundamentos de **Unity 2D**.  
 
+© 2025 - *Schoenstantt Andrea Palomares Barrientos*

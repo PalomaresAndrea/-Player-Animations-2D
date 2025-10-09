@@ -35,7 +35,7 @@ Acceder al sitio **Juego de Plataformas 2D**, para seguir los tutoriales de crea
 
 ---
 
-## 📚 **Tutoriales Adicionales**
+## 📚 **Tutoriales**
 
 | Nº | Tema | 🎬 Enlace del Video | 📘 Enlace del PDF |
 |:--:|------|--------------------|------------------|

@@ -62,7 +62,4 @@ Al finalizar el proyecto, el estudiante comprenderá los principios básicos del
 
 ---
 
-## 🏁 **Créditos**
-Este proyecto fue desarrollado con fines educativos para la asignatura **Creación de Videojuegos ING**, como práctica de los fundamentos de **Unity 2D**.  
 
-© 2025 - *Schoenstantt Andrea Palomares Barrientos*

@@ -28,7 +28,7 @@ Acceder al sitio **Juego de Plataformas 2D**, para seguir los tutoriales de crea
 
 | Nº | Tema del Tutorial | 🎬 Enlace del Video | 📘 Enlace del PDF |
 |:--:|--------------------|--------------------|------------------|
-| 01 | Creación del mundo | [Agregar enlace aquí](#) | https://drive.google.com/file/d/1NtTqGmmVqJheLO1gwK0fyInl5dUwJpay/view?usp=drive_link |
+| 01 | Creación del mundo | https://drive.google.com/file/d/1FYZbMi5RXgcJWHQsKJLLlAV_QH3b_l_q/view?usp=sharing | https://drive.google.com/file/d/1NtTqGmmVqJheLO1gwK0fyInl5dUwJpay/view?usp=drive_link |
 
 ---
 
@@ -36,7 +36,8 @@ Acceder al sitio **Juego de Plataformas 2D**, para seguir los tutoriales de crea
 
 | Nº | Tema | 🎬 Enlace del Video | 📘 Enlace del PDF |
 |:--:|------|--------------------|------------------|
-| 02 | Clase 03-10-25 | [Agregar enlace aquí](#) |https://drive.google.com/file/d/1A1qSp7UYYyKSvS4B6zuCdLOtnWpj3sIY/view?usp=sharing |
+| 02 | Clase 03-10-25 | https://drive.google.com/file/d/1kj8AYgszVEfFazLZ7Fn-NtbQbVjVFu8H/view?usp=sharing |https://drive.google.com/file/d/1A1qSp7UYYyKSvS4B6zuCdLOtnWpj3sIY/view?usp=sharing |
+
 
 ---
 
